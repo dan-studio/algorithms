@@ -1,1 +1,1 @@
-# algorithms
+# ⚙️ JS algorithms from PROGRAMMERS
